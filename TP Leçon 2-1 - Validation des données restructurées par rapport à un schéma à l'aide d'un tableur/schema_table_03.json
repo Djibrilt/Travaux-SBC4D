@@ -1,0 +1,96 @@
+{
+	"name": "Test_schema",
+	"title": "Test_schema",
+	"description": "A test Schema",
+	"fields": [
+		{
+            "name": "HDI_rank",
+            "title": "HDI rank",
+            "type": "integer",
+            "description": "Human Development Index Rank",
+            "constraints": {
+                "unique": "true"
+            }
+        },
+        {
+            "name": "Country",
+            "title": "Country",
+            "type": "string",
+            "description": "Country name"
+        },
+		{
+            "name": "Human_Development_Level",
+            "title": "Human Development Level",
+            "type": "array",
+            "description": "Human Development level of each country",
+            "constraints": {
+                "enum": [
+                    "High Human Development", 
+                    "Medium Human Development", 
+                    "Low Human Development"
+                ]
+            }
+        },
+		{
+            "name": "Human_poverty_index_Rank",
+            "title": "Human poverty index Rank",
+            "type": "number",
+            "description": "Human poverty index rank of each country (HPI-1)"
+        },
+        {
+            "name": "Human_poverty_index_Value_Percentage",
+            "title": "Human poverty index Value Percentage",
+            "type": "number",
+            "description": "Human poverty index value of each country  in percentage (%)"
+        },
+        {
+            "name": "Probability_at_birth_of_not_surviving_to_age_40_Cohorte_2000-05",
+            "title": "Probability at birth of not surviving to age 40 Cohorte 2000-05",
+            "type": "number",
+            "description": "Probability at birth of not surviving to age 40 (% of cohort) 2000-05"
+        },
+        {
+            "name": "Adult_illiteracy_rate_15_1995-2005",
+            "title": "Adult illiteracy rate ",
+            "type": "number",
+            "description": "Data refer to national illiteracy rate estimates (% aged 15 and older) 1995-2005"
+        },
+        {
+            "name": "Population_not_using_an_improved_water_source_%_2004",
+            "title": "Population not using an improved water source",
+            "type": "number",
+            "description": "Population not using an improved water source (%) 2004"
+        },
+        {
+            "name": "Children_under_weight_for_age_%_5_1997-2005",
+            "title": "Children under weight",
+            "type": "number",
+            "description": "Children under weight for age (% under age 5) 1996-2005"
+        },
+        {
+            "name": "Population_below_income_poverty_line_1_aDay_1990-2005d",
+            "title": "Population below income poverty line of $1",
+            "type": "number",
+            "description": "Percentage of Population below  income poverty line of $1 a day 1990-2005"
+        },
+        {
+            "name": "Population_below_income_poverty_line_2_aDay_1990-2005d",
+            "title": "Population below income poverty line of $2",
+            "type": "number",
+            "description": "Percentage of Population below  income poverty line of $2 a day 1990-2005"
+        },
+        {
+            "name": "Population_below_income_poverty line_National_poverty_line_1990-2005d",
+            "title": "Population below income poverty line National poverty line",
+            "type": "number",
+            "description": "Percentage of Population below  income poverty line of National poverty line 1990-2004"
+        },
+        {
+            "name": "HPI-1_Rank_minus_income_poverty_rank",
+            "title": "HPI-1 Rank minus income poverty rank",
+            "type": "integer",
+            "description": "The difference beween HPI-1 rank minus income poverty rank"
+        }               
+    ],
+    "missingValues": [""]
+}
