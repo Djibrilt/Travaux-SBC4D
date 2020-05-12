@@ -1,0 +1,127 @@
+HDI_rank,Country,Human_Development_Level,Human_poverty_index_Rank,Human_poverty_index_Value_Percentage,Probability_at_birth_of_not_surviving_to_age_40_Cohorte_2000-05,Adult_illiteracy_rate_15_1995-2005,Population_not_using_an_improved_water_source_%_2004,Children_under_weight_for_age_%_5_1997-2005,Population_below_income_poverty_line_1_aDay_1990-2005d,Population_below_income_poverty_line_2_aDay_1990-2005d,Population_below_income_poverty line_National_poverty_line_1990-2005d,HPI-1_Rank_minus_income_poverty_rank
+21,Hong Kong. China (SAR),High Human Development,,,1.5,,,,,,,
+25,Singapore,High Human Development,7,5.2,1.8,7.5,0,3,,,,
+26,Korea (Republic of),High Human Development,,,2.5,1,8,,1,1,,
+28,Cyprus,High Human Development,,,2.4,3.2,0,,,,,
+30,Brunei Darussalam,High Human Development,,,3,7.3,,,,,,
+31,Barbados,High Human Development,1,3,3.7,,0,6,,,,
+33,Kuwait,High Human Development,,,2.7,6.7,,10,,,,
+35,Qatar,High Human Development,13,7.8,3.7,11,0,6,,,,
+38,Argentina,High Human Development,4,4.1,4.9,2.8,4,4,6.6,17.4,,-14
+39,United Arab Emirates,High Human Development,17,8.4,2.1,11.3,0,14,,,,
+40,Chile,High Human Development,3,3.7,3.5,4.3,5,1,1,5.6,17,1
+41,Bahrain,High Human Development,,,3.4,13.5,,9,,,,
+46,Uruguay,High Human Development,2,3.5,4.3,3.2,0,5,1,5.7,,0
+48,Costa Rica,High Human Development,5,4.4,3.7,5.1,3,5,3.3,9.8,22,-10
+49,Bahamas,High Human Development,,,10.6,,3,,,,,
+50,Seychelles,High Human Development,,,,8.2,12,6,,,,
+51,Cuba,High Human Development,6,4.7,3.1,,9,4,,,,
+52,Mexico,High Human Development,10,6.8,5.8,8.4,3,8,3,11.6,17.6,-7
+54,Saint Kitts and Nevis,High Human Development,,,,2.2,0,,,,,
+55,Tonga,High Human Development,,,5,1.1,0,,,,,
+56,Libyan Arab Jamahiriya,High Human Development,,,4.6,15.8,,5,,,,
+57,Antigua and Barbuda,High Human Development,,,,14.2,9,10,,,,
+58,Oman,High Human Development,,,3.7,18.6,,18,,,,
+59,Trinidad and Tobago,High Human Development,12,7.3,9.1,1.6,9,6,12.4,39,21,-19
+61,Saudi Arabia,High Human Development,,,5.7,17.1,,14,,,,
+62,Panama,High Human Development,15,8,6.5,8.1,10,8,7.4,18,37.3,-10
+63,Malaysia,High Human Development,16,8.3,4.4,11.3,1,11,1,9.3,15.5,9
+65,Mauritius,High Human Development,27,11.4,5.1,15.7,0,15,,,,
+70,Brazil,High Human Development,23,9.7,9.2,11.4,10,6,7.5,21.2,21.5,-6
+71,Dominica,Medium Human Development,,,,12,3,5,,,,
+72,Saint Lucia,Medium Human Development,8,6.5,5.6,5.2,2,14,,,,
+74,Venezuela (Bolivarian Republic of),Medium Human Development,21,8.8,7.3,7,17,5,18.5,40.1,31.3,-24
+75,Colombia,Medium Human Development,14,7.9,9.2,7.2,7,7,7,17.8,64,-10
+77,Samoa,Medium Human Development,,,6.6,1.4,12,,,,,
+78,Thailand,Medium Human Development,24,10,12.1,7.4,1,18,1,25.2,13.6,15
+79,Dominican Republic,Medium Human Development,26,10.5,10.5,13,5,5,2.8,16.2,42.2,6
+80,Belize,Medium Human Development,43,17.5,5.4,24.9,9,6,,,,
+81,China,Medium Human Development,29,11.7,6.8,9.1,23,8,9.9,34.9,4.6,-3
+82,Grenada,Medium Human Development,,,9.7,4,5,,,,,
+84,Turkey,Medium Human Development,22,9.2,6.5,12.6,4,4,3.4,18.7,27,-1
+85,Suriname,Medium Human Development,25,10.2,9.8,10.4,8,13,,,,
+86,Jordan,Medium Human Development,11,6.9,6.4,8.9,3,4,1,7,14.2,5
+87,Peru,Medium Human Development,28,11.6,9.7,12.1,17,8,10.5,30.6,53.1,-5
+88,Lebanon,Medium Human Development,18,8.5,6.3,,0,4,,,,
+89,Ecuador,Medium Human Development,19,8.7,8.1,9,6,12,17.7,40.8,46,-25
+90,Philippines,Medium Human Development,37,15.3,7,7.4,15,28,14.8,43,36.8,-6
+91,Tunisia,Medium Human Development,45,17.9,4.6,25.7,7,4,1,6.6,7.6,27
+92,Fiji,Medium Human Development,50,21.2,6.9,,53,8,,,,
+93,Saint Vincent and the Grenadines,Medium Human Development,,,6.7,11.9,,,,,,
+94,Iran (Islamic Republic of),Medium Human Development,30,12.9,7.8,17.6,6,11,1,7.3,,19
+95,Paraguay,Medium Human Development,20,8.8,9.7,6.5,14,5,13.6,29.8,21.8,-16
+97,Guyana,Medium Human Development,33,14,16.6,,17,14,,,,
+99,Sri Lanka,Medium Human Development,44,17.8,7.2,9.3,21,29,5.6,41.6,25,11
+100,Maldives,Medium Human Development,42,17,12.1,3.7,17,30,,,,
+101,Jamaica,Medium Human Development,34,14.3,8.3,20.1,7,4,1,14.4,18.7,21
+102,Cape Verde,Medium Human Development,38,15.8,7.5,18.8,20,14,,,,
+103,El Salvador,Medium Human Development,35,15.1,9.6,19.4,16,10,19,40.6,37.2,-15
+104,Algeria,Medium Human Development,51,21.5,7.7,30.1,15,10,1,15.1,22.6,31
+105,Viet Nam,Medium Human Development,36,15.2,6.7,9.7,15,27,,,28.9,
+106,Occupied Palestinian Territories,Medium Human Development,9,6.6,5.2,7.6,8,5,,,,
+107,Indonesia,Medium Human Development,47,18.2,8.7,9.6,23,28,7.5,52.4,27.1,10
+108,Syrian Arab Republic,Medium Human Development,31,13.6,4.6,19.2,7,7,,,,
+110,Nicaragua,Medium Human Development,46,17.9,9.5,23.3,21,10,45.1,79.9,47.9,-28
+112,Egypt,Medium Human Development,48,20,7.5,28.6,2,6,3.1,43.9,16.7,18
+114,Mongolia,Medium Human Development,40,16.3,11.6,2.2,38,7,10.8,44.6,36.1,0
+115,Honduras,Medium Human Development,41,16.5,12.9,20,13,17,14.9,35.7,50.7,-5
+117,Bolivia,Medium Human Development,32,13.6,15.5,13.3,15,8,23.2,42.2,62.7,-21
+118,Guatemala,Medium Human Development,54,22.5,12.5,30.9,5,23,13.5,31.9,56.2,6
+119,Gabon,Medium Human Development,49,20.4,27.1,16,12,12,,,,
+120,Vanuatu,Medium Human Development,56,24.6,8.8,26,40,20,,,,
+121,South Africa,Medium Human Development,55,23.5,31.7,17.6,12,12,10.7,34.1,,10
+123,Sao Tome and Principe,Medium Human Development,39,15.8,15.1,15.1,21,13,,,,
+124,Botswana,Medium Human Development,63,31.4,44,18.8,5,13,28,55.5,,-9
+125,Namibia,Medium Human Development,58,26.5,35.9,15,13,24,34.9,55.8,,-16
+126,Morocco,Medium Human Development,68,33.4,8.2,47.7,19,10,1,14.3,19,41
+127,Equatorial Guinea,Medium Human Development,66,32.4,35.6,13,57,19,,,,
+128,India,Medium Human Development,62,31.3,16.8,39,14,47,34.3,80.4,28.6,-13
+129,Solomon Islands,Medium Human Development,53,22.4,16.1,23.4,30,21,,,,
+130,Lao People's Democratic Republic,Medium Human Development,70,34.5,16.6,31.3,49,40,27,74.1,38.6,-2
+131,Cambodia,Medium Human Development,85,38.6,24.1,26.4,59,45,34.1,77.7,35,6
+132,Myanmar,Medium Human Development,52,21.5,21,10.1,22,32,,,,
+133,Bhutan,Medium Human Development,86,38.9,16.8,53,38,19,,,,
+134,Comoros,Medium Human Development,61,31.3,15.3,,14,25,,,,
+135,Ghana,Medium Human Development,65,32.3,23.8,42.1,25,22,44.8,78.5,39.5,-16
+136,Pakistan,Medium Human Development,77,36.2,15.4,50.1,9,38,17,73.6,32.6,15
+137,Mauritania,Medium Human Development,87,39.2,14.6,48.8,47,32,25.9,63.1,46.3,12
+138,Lesotho,Medium Human Development,71,34.5,47.8,17.8,21,20,36.4,56.1,,-10
+139,Congo,Medium Human Development,57,26.2,30.1,15.3,42,15,,,,
+140,Bangladesh,Medium Human Development,93,40.5,16.4,52.5,26,48,41.3,84,49.8,4
+141,Swaziland,Medium Human Development,73,35.4,48,20.4,38,10,47.7,77.8,,-13
+142,Nepal,Medium Human Development,84,38.1,17.4,51.4,10,48,24.1,68.5,30.9,11
+143,Madagascar,Medium Human Development,75,35.8,24.4,29.3,50,42,61,85.1,71.3,-20
+144,Cameroon,Medium Human Development,64,31.8,35.7,32.1,34,18,17.1,50.6,40.2,4
+145,Papua New Guinea,Medium Human Development,90,40.3,20.7,42.7,61,35,,,37.5,
+146,Haiti,Medium Human Development,74,35.4,21.4,,46,17,53.9,78,65,-13
+147,Sudan,Medium Human Development,69,34.4,26.1,39.1,30,41,,,,
+148,Kenya,Medium Human Development,60,30.8,35.1,26.4,39,20,22.8,58.3,52,-4
+149,Djibouti,Medium Human Development,59,28.5,28.6,,27,27,,,,
+150,Timor-Leste,Medium Human Development,95,41.8,21.2,49.9,42,46,,,,
+151,Zimbabwe,Medium Human Development,91,40.3,57.4,10.6,19,17,56.1,83,34.9,-4
+152,Togo,Medium Human Development,83,38.1,24.1,46.8,48,25,,,32.3,
+153,Yemen,Medium Human Development,82,38,18.6,45.9,33,46,15.7,45.2,41.8,21
+154,Uganda,Medium Human Development,72,34.7,38.5,33.2,40,23,,,37.7,
+155,Gambia,Medium Human Development,94,40.9,20.9,,18,17,59.3,82.9,57.6,-4
+156,Senegal,Low Human Development,97,42.9,17.1,60.7,24,17,17,56.2,33.4,28
+157,Eritrea,Low Human Development,76,36,24.1,,40,40,,,53,
+158,Nigeria,Low Human Development,80,37.3,39,30.9,52,29,70.8,92.4,34.1,-19
+159,Tanzania (United Republic of),Low Human Development,67,32.5,36.2,30.6,38,22,57.8,89.9,35.7,-22
+160,Guinea,Low Human Development,103,52.3,28.6,70.5,50,26,,,40,
+161,Rwanda,Low Human Development,78,36.5,44.6,35.1,26,23,60.3,87.8,60.3,-16
+162,Angola,Low Human Development,89,40.3,46.7,32.6,47,31,,,,
+163,Benin,Low Human Development,100,47.6,27.9,65.3,33,23,30.9,73.7,29,16
+164,Malawi,Low Human Development,79,36.7,44.4,35.9,27,22,20.8,62.9,65.3,11
+165,Zambia,Low Human Development,96,41.8,53.9,32,42,20,63.8,87.2,68,-7
+166,Côte d'Ivoire,Low Human Development,92,40.3,38.6,51.3,16,17,14.8,48.8,,29
+167,Burundi,Low Human Development,81,37.6,38.2,40.7,21,45,54.6,87.6,36.4,-8
+168,Congo (Democratic Republic of the),Low Human Development,88,39.3,41.1,32.8,54,31,,,,
+169,Ethiopia,Low Human Development,105,54.9,33.3,64.1,78,38,23,77.8,44.2,27
+170,Chad,Low Human Development,108,56.9,32.9,74.3,58,37,,,64,
+171,Central African Republic,Low Human Development,98,43.6,46.2,51.4,25,24,66.6,84,,-6
+172,Mozambique,Low Human Development,101,50.6,45,61.3,57,24,36.2,74.1,69.4,12
+173,Mali,Low Human Development,107,56.4,30.4,76,50,33,36.1,72.1,63.8,18
+174,Niger,Low Human Development,104,54.7,28.7,71.3,54,40,60.6,85.8,63,1
+175,Guinea-Bissau,Low Human Development,99,44.8,40.5,,41,25,,,,
+176,Burkina Faso,Low Human Development,106,55.8,26.5,76.4,39,38,27.2,71.8,46.4,23
+177,Sierra Leone,Low Human Development,102,51.7,45.6,65.2,43,27,57,74.5,70.2,4
